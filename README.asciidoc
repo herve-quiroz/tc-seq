@@ -1,0 +1,10 @@
+
+Simple Event Queue: Java library and REST API to post and receive events
+
+== TODO
+
+- A lot of things...
+
+// vim: set syntax=asciidoc:
+// vim: set spell:
+// vim: set spelllang=en:
